@@ -1,2 +1,3 @@
-# simple-chat-app-9zdu
-A real-time chat application for modern development workflows
+# Simple Chat App 9Zdu
+
+A real-time chat application for modern development workflows.
